@@ -1,0 +1,14 @@
+input {
+    margin-top: 10px;
+}
+
+#btEnviar {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#btOrganizar {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: none;
+}
